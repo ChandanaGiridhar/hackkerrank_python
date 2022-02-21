@@ -21,3 +21,23 @@ Some of the **popular numpy function** are: numpy.array(), numpy.mean(), numpy.s
 Matplotlib is a very powerful library that is used for plotting and data visualization.
 With this library, we can plot histograms, scatter and line plots. 
 Some of the **popular matplotlib functions** are: matplotlib.pyplot.plot(), matplotlib.pyplot.scatter(), matplotlib.pyplot.hist(), matplotlib.pyplot.show(), matplotlib.pyplot.xticks(), matplotlib.pyplot.yticks(), matplotlib.pyplot.text() etc.
+
+### PYTHON LIBRARY - Scipy
+![image](https://static.javatpoint.com/tutorial/scipy/images/python-scipy.png)
+
+SciPy is an Open Source Python-based library, which is used in mathematics, scientific computing, Engineering, and technical computing.SciPy contains varieties of sub packages which help to solve the most common issue related to Scientific Computation.
+SciPy is the most used Scientific library only second to GNU Scientific Library for C/C++ or Matlab's.
+
+*Some of the sub packages of scipy are:*
+File input/output - **scipy.io**, 
+Special Function - **scipy.special**, 
+Linear Algebra Operation - **scipy.linalg**, 
+Interpolation - **scipy.interpolate**, 
+Optimization and fit - **scipy.optimize**, 
+Statistics and random numbers - **scipy.stats**, 
+Numerical Integration - **scipy.integrate**, 
+Fast Fourier transforms - **scipy.fftpack**, 
+Signal Processing - **scipy.signal**, 
+Image manipulation – **scipy.ndimage**.
+It is built over numpy
+
