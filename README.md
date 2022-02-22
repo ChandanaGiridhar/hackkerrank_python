@@ -39,5 +39,5 @@ Numerical Integration - **scipy.integrate**,
 Fast Fourier transforms - **scipy.fftpack**, 
 Signal Processing - **scipy.signal**, 
 Image manipulation – **scipy.ndimage**.
-It is built over numpy
+It is built over numpy.
 
